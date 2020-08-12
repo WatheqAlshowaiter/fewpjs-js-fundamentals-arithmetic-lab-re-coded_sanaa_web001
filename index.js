@@ -14,7 +14,7 @@ var random = Math.random() * 10 +1;
 
 var mod;
 
-var max()
+var max = MAth.max(20,15, 3);
 
 
 
