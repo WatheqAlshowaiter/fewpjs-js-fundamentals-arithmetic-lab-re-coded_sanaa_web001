@@ -13,7 +13,7 @@ var random = Math.random() * 10 +1;
 
 
 
-var mod;
+var mod = 10 %6;
 
 
 
